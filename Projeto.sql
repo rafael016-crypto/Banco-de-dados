@@ -1,3 +1,4 @@
+drop database SGE;
 /* Criando o banco de dados */
 CREATE DATABASE SGE;
 
